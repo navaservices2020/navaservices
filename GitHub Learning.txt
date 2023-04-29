@@ -26,7 +26,11 @@ version number
 $ git pull --- Fetch the changes from the remote repository
 $ cat 'GitHub Learning.txt' --- To see the content of file
 
-
+------------ git add
+'git add' is a command in the Git version control system that adds changes made to a file or directory to the Git staging area. This command allows Git to track the changes that have been made to files and prepares them to be committed.
+$ git add [filename]
+$ git add .
+$ git commit
 Source Code Management(SCM) - github
 
 Git Clone
