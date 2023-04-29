@@ -1,4 +1,4 @@
-**** Vesion Controlling System ****
+**** Vesion Control System ****
 Version control system (VCS) is a software tool that helps in managing changes to source code or any other kind of files. It allows developers to keep track of modifications made to their code over time, collaborate with others, and revert back to previous versions if necessary.
 
 There are two main types of VCS: centralized and distributed. Centralized version control systems, such as CVS and Subversion, store all versions of a file in a central repository. Developers check out files from the repository, modify them, and then check them back in.
