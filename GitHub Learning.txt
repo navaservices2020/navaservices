@@ -22,6 +22,7 @@ Here's an example of how to use git pull:
 4) Once the merge is complete, you can continue working on your local copy of the code with the updated changes.
 version number 
 
+================ Commands ====================
 $ git pull --- Fetch the changes from the remote repository
 $ cat 'GitHub Learning.txt' --- To see the content of file
 
