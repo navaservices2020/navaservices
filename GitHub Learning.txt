@@ -1,4 +1,16 @@
-Vesion Controlling System(VCS) - git
+**** Vesion Controlling System ****
+Version control system (VCS) is a software tool that helps in managing changes to source code or any other kind of files. It allows developers to keep track of modifications made to their code over time, collaborate with others, and revert back to previous versions if necessary.
+
+There are two main types of VCS: centralized and distributed. Centralized version control systems, such as CVS and Subversion, store all versions of a file in a central repository. Developers check out files from the repository, modify them, and then check them back in.
+
+Distributed version control systems, such as Git and Mercurial, give each developer a local copy of the entire repository. Developers can make changes to their local copy without affecting the central repository. They can then merge their changes with the central repository, or with other developers' copies of the repository.
+
+Version control systems provide several benefits, including:
+1) Collaboration: VCS allows multiple developers to work on the same project simultaneously without interfering with each other's changes.
+2) History: VCS keeps a history of all changes made to a file, which makes it easy to see who made what changes and when.
+3) Rollback: VCS allows developers to revert back to a previous version of a file or the entire project, which is useful in case of errors or mistakes.
+4) Branching: VCS allows developers to create branches, which are copies of the codebase that can be worked on independently. This is useful when working on new features or experimenting with changes.
+
 version number 
 
 Source Code Management(SCM) - github
