@@ -11,7 +11,20 @@ Version control systems provide several benefits, including:
 3) Rollback: VCS allows developers to revert back to a previous version of a file or the entire project, which is useful in case of errors or mistakes.
 4) Branching: VCS allows developers to create branches, which are copies of the codebase that can be worked on independently. This is useful when working on new features or experimenting with changes.
 
+Git pull is a command used in the Git version control system to update a local repository with changes from a remote repository. It combines two other Git commands, git fetch and git merge, into a single command.
+
+When you run "git pull" in your local repository, Git will fetch the changes from the remote repository and merge them into your current branch. This can be useful when you're working with a team and want to update your local copy of the code with changes made by others.
+
+Here's an example of how to use git pull:
+1) Navigate to your local repository directory in the command line.
+2) Run "git pull" to fetch and merge the changes from the remote repository.
+3) If there are conflicts between the changes in the remote and local repositories, Git will prompt you to resolve them.
+4) Once the merge is complete, you can continue working on your local copy of the code with the updated changes.
 version number 
+
+$ git pull --- Fetch the changes from the remote repository
+$ cat 'GitHub Learning.txt' --- To see the content of file
+
 
 Source Code Management(SCM) - github
 
