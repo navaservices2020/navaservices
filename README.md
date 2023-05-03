@@ -1,2 +1,1 @@
-# navaservices
-Config files for my GitHub profile.
+# nava_services
